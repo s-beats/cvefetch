@@ -1,2 +1,3 @@
 # cvefetch
-Fetch CVE
+Fetch CVE from https://jvndb.jvn.jp/apis/
+
